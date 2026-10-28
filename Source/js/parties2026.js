@@ -1,4 +1,3 @@
-JS
 var getParties = function () {
  
     var likud = new party('הליכוד בהנהגת בנימין נתניהו לראשות הממשלה', 1006726);
